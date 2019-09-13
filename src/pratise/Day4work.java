@@ -12,6 +12,7 @@ public class Day4work {
 		d.get("http://www.greenstechnologys.com/selenium-course-content.html");
 		 WebElement f = d.findElement(By.xpath("(//strong[text()='Selenium with Appium course syllabus'])"));
 	System.out.println(f);
+	System.out.println("123");
 
 }
 }
